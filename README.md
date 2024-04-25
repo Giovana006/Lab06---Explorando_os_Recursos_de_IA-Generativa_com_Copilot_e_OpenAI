@@ -32,5 +32,13 @@ Uma delas seria uso dos recursos do "_Vision Studio_" em empresas para fazer a t
 
 #### **Exemplos propostos com o Microsoft Copilot :**
 
+**Respostas Inteligentes :**
+
 </div>
+
+Primeiro, vamos acessar o portal [Microsoft Copilot](https://copilot.microsoft.com/) .
+
+O recurso **Resposta Inteligente** do **Microsoft Copilot** é um recurso que permite ao assistente gerar respostas relevantes e úteis às perguntas ou solicitações dos usuários. Utiliza tecnologias de inteligência artificial para compreender o contexto da conversa e fornecer informações precisas.
+
+Vamos pedir ao Copilot uma lista de prós e contras de fazer uma transição de carreira.
 
