@@ -82,5 +82,11 @@ Primeiro, vamos acessar o portal [Microsoft Copilot](https://copilot.microsoft.c
 
 O recurso **Resposta Inteligente** do **Microsoft Copilot** é um recurso que permite ao assistente gerar respostas relevantes e úteis às perguntas ou solicitações dos usuários. Utiliza tecnologias de inteligência artificial para compreender o contexto da conversa e fornecer informações precisas.
 
-Vamos pedir ao Copilot uma lista de prós e contras de fazer uma transição de carreira.
+Vamos pedir ao Copilot uma lista de prós e contras de fazer uma transição de carreira em tecnologia.
+
+<img src="Inputs/Resposta Inteligente/1° Pergunta - Resposta Inteligente.png">
+
+<img src="Output/Respostas Inteligentes/1° Resposta - Prós - Parte 1 - Resposta Inteligente.png">
+
+<img src="Output/Respostas Inteligentes/1° Resposta - Contras - Parte 2 - Resposta Inteligente.png">
 
