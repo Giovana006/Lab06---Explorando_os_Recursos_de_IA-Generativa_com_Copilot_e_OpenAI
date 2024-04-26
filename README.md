@@ -40,6 +40,16 @@ Siga de acordo com os Passos a seguir:
 
 <img src="Assets/Passo-a-Passo para Criar Recurso no Azure.gif">
 
+#### **Etapa 2: Selecione um Recurso do Azure**
+
+Após completar esta etapa de criação, vamos para o portal [Language Studio](https://language.cognitive.azure.com/home) .
+
+Para acessar o Language Studio precisamos vinculá-lo a um recurso do Azure.
+
+Siga de acordo com os Passos a seguir:
+
+<div align="center">
+
 <div align="center">
 
 #### **Exemplos propostos com o Microsoft Copilot :**
