@@ -56,6 +56,20 @@ Siga de acordo com os Passos a seguir:
 
 </div>
 
+#### **Etapa 3: Criando um recurso para Sincronizar o Azure com o Vision Studio**
+
+Primeiro, vamos acessar o portal do [Microsoft Azure](https://portal.azure.com/#home) .
+
+Agora vamos criar um recurso e configurá-lo para depois utilizá-lo no **Vision Studio** .
+
+Siga de acordo com os Passos a seguir:
+
+<div align="center">
+
+<img src="Assets/Passo-a-Passo para Criar um Recurso para o Vision Studio.gif">
+
+</div>
+
 <div align="center">
 
 #### **Exemplos propostos com o Microsoft Copilot :**
