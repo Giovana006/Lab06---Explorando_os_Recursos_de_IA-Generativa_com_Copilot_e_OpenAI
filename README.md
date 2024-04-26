@@ -28,7 +28,7 @@ Após a conclusão do projeto seguindo os passos pode se ter algumas idéias de 
 
 Uma delas seria uso dos recursos do "_Vision Studio_" em empresas para fazer a transcrição de documentos(uma foto de uma nota fiscal) para análise e, se for o caso, armazenamento em banco de dados. Já para o "_Copilot_" as possibilidades são inumeras desde a geração de imagens, interpretação de imagens com sugestão de pesquisa, tirar dúvidas, entre outras possibilidades.
 
-#### **Etapa 1: Criando um recurso para análise de sentimento**
+#### **Etapa 1: Criando um recurso para Sincronizar o Azure com o Language Studio**
 
 Primeiro, vamos acessar o portal do [Microsoft Azure](https://portal.azure.com/#home) .
 
@@ -52,7 +52,9 @@ Siga de acordo com os Passos a seguir:
 
 <div align="center">
 
+<img src="Assets/Language Studio - Vincular Recurso do Azure.gif">
 
+</div>
 
 <div align="center">
 
