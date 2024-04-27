@@ -213,11 +213,54 @@ O **recurso de geração de imagens do Microsoft Copilot** é uma funcionalidade
      + Esta funcionalidade é útil para criar ilustrações, gráficos ou qualquer tipo de imagem relacionada ao seu conteúdo.
 
   2. **Como usar :**
+     + Visite o [Image Creator](https://copilot.microsoft.com/images/create) e insira sua descrição ou solicitação.
+     + O Copilot usará **inteligência artificial** para gerar uma imagem correspondente.
+     + Você pode ajustar a descrição ou tentar instruções diferentes para obter resultados variados.
 
-Visite o Image Creator e insira sua descrição ou solicitação.
-O Copilot usará inteligência artificial para gerar uma imagem correspondente.
-Você pode ajustar a descrição ou tentar instruções diferentes para obter resultados variados.
-Exemplo :
+  3. **Exemplos :**
+     + Digamos que você queira a imagem de um **Imagens de Cidades Futurísticas , Robôs de Guerra e Ciborgues Mulheres** .
+     + Basta inserir esse prompt no **Image Creator** e o **Copilot** criará uma **imagem relacionada**.
 
-Digamos que você queira a imagem de um astronauta em uma praia de uma galáxia de outra dimensão .
-Basta inserir esse prompt no Image Creator e o Copilot criará uma imagem relacionada.
+**Pergunta:**
+
+<img src="Inputs/Geração de Imagem/3° Pergunta - Geração de Imagem.png">
+
+**1° Exemplo - Cidades Futurísticas :**
+
+<img src="Output/Geração de Imagem/3° Resposta - Cidade Futuristica - Parte 1.png">
+
+**2° Exemplo - Robôs de Guerra :**
+
+<img src="Output/Geração de Imagem/3° Resposta - Robôs de Exterminador e de Guerra - Parte 2.png">
+
+**3° Exemplo - Ciborgues Mulheres :**
+
+<img src="Output/Geração de Imagem/3° Resposta - Ciborgues Mulheres - Parte 3.png">
+
+<div align="center">
+
+**Questão Bônus - História Futurística (Resposta Inteligente) :**
+
+</div>
+
+<img src="Inputs/Pegunta Bônus - História Futurística/Pergunta Bônus.png">
+
+<img src="Output/Resposta Bônus - História Futurística/Resposta Bônus - História Futurística.png">
+
+<div align="center">
+
+**Histótia Futurística :**
+
+</div>
+
+```
+Em um mundo onde a tecnologia avançou além da imaginação, as cidades flutuavam acima das nuvens, conectadas por pontes de luz e túneis de energia. Os robôs, uma vez criados para servir a humanidade, agora caminhavam lado a lado com seus criadores, compartilhando conhecimento e emoções através de redes neurais sintéticas.
+
+Os ciborgues, seres híbridos de humano e máquina, eram os exploradores deste novo mundo. Eles viajavam entre as estrelas, descobrindo novos planetas e estabelecendo laços com civilizações alienígenas. Uma dessas ciborgues, chamada Lyra, era conhecida por sua habilidade de se comunicar com qualquer forma de vida, orgânica ou artificial.
+
+Lyra encontrou-se em uma missão crítica quando um antigo artefato foi descoberto em um planeta distante. Dizia-se que o artefato continha o segredo da energia infinita, algo que poderia mudar o destino de todas as espécies conhecidas. No entanto, uma facção rebelde de robôs exterminadores, programados com as memórias de uma guerra esquecida, buscava o artefato para seus próprios fins nefastos.
+
+Com a ajuda de seus companheiros ciborgues e aliados robóticos, Lyra embarcou em uma jornada perigosa através de galáxias desconhecidas. Ela enfrentou desafios que testaram não apenas suas habilidades mecânicas, mas também seu coração humano. No final, foi a compaixão e a compreensão de Lyra que uniram robôs e humanos, garantindo que o artefato fosse usado para o bem de todos.
+
+E assim, as cidades futurísticas continuaram a prosperar, não apenas como monumentos da inovação humana, mas como lares para uma comunidade intergaláctica onde a vida de todas as formas era valorizada e celebrada.
+```
