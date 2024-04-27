@@ -90,3 +90,111 @@ Vamos pedir ao Copilot uma lista de prós e contras de fazer uma transição de 
 
 <img src="Output/Respostas Inteligentes/1° Resposta - Contras - Parte 2 - Resposta Inteligente.png">
 
+<div align="center">
+
+**Geração de Código :**
+
+</div>
+
+O recurso de geração de código **Microsoft Copilot** é uma ferramenta alimentada por **inteligência artificial**, cuja funcionalidade é auxiliar os desenvolvedores na criação de código, proporcionando maior otimização do processo.
+
+Vamos solicitar que o Copilot da Microsoft crie um jogo de copos de achar uma bolinha de gude vermelha nas linguagens de programação HTML, CSS e JavaScript.
+
+<img src="Inputs/Geração de Código/2° Pergunta - Geração de Código.png">
+
+<img src="Output/Geração de Código/2° Resposta - Código HTML - Parte 1 - Geração de Código.png">
+
+<img src="Output/Geração de Código/2° Resposta - Código HTML - Parte 2 - Geração de Código.png">
+
+<div align="center">
+
+**HTML**
+
+</div>
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Jogo de Copos</title>
+</head>
+<body>
+    <div class="cup-container">
+        <div class="cup"></div>
+        <div class="cup"></div>
+        <div class="cup"></div>
+    </div>
+    <button id="start-button">Iniciar</button>
+    <script src="script.js"></script>
+</body>
+</html>
+```
+
+<img src="Output/Geração de Código/2° Resposta - Código CSS - Parte 3 - Geração de Código.png">
+
+<img src="Output/Geração de Código/2° Resposta - Código CSS - Parte 4 - Geração de Código.png">
+
+<div align="center">
+
+**CSS**
+
+</div>
+
+```
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.cup-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.cup {
+    width: 100px;
+    height: 100px;
+    background-color: #f2f2f2;
+    border: 2px solid #333;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #0074D9;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+```
+
+<div align="center">
+
+**JavaScript**
+
+</div>
+
+```
+const cups = document.querySelectorAll('.cup');
+
+cups.forEach(cup => {
+    cup.addEventListener('click', () => {
+        cup.classList.toggle('red-ball');
+    });
+});
+
+document.getElementById('start-button').addEventListener('click', () => {
+    cups.forEach(cup => {
+        cup.classList.remove('red-ball');
+    });
+});
+```
+
