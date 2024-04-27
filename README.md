@@ -198,3 +198,26 @@ document.getElementById('start-button').addEventListener('click', () => {
 });
 ```
 
+<div align="center">
+
+**Geração de Imagem :**
+
+</div>
+
+O **recurso de geração de imagens do Microsoft Copilot** é uma funcionalidade poderosa que permite criar imagens com base em palavras ou descrições. Deixe-me explicar como funciona:
+
+  1. **Criador de imagens do Microsoft Designer :**
+     +  O **Image Creator** é uma ferramenta que faz parte do **Microsoft Copilot**
+     + Ele permite **gerar imagens a partir de palavras usando IA** .
+     + Você pode inserir uma descrição ou prompt e o Copilot gera uma imagem relevante com base nessa entrada.
+     + Esta funcionalidade é útil para criar ilustrações, gráficos ou qualquer tipo de imagem relacionada ao seu conteúdo.
+
+  2. **Como usar :**
+
+Visite o Image Creator e insira sua descrição ou solicitação.
+O Copilot usará inteligência artificial para gerar uma imagem correspondente.
+Você pode ajustar a descrição ou tentar instruções diferentes para obter resultados variados.
+Exemplo :
+
+Digamos que você queira a imagem de um astronauta em uma praia de uma galáxia de outra dimensão .
+Basta inserir esse prompt no Image Creator e o Copilot criará uma imagem relacionada.
