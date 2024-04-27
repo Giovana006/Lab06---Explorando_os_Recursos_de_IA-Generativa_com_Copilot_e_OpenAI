@@ -134,6 +134,8 @@ button {
 }
 ```
 
+<img src="Output/Geração de Código/2° Resposta - Código JavaScript - Parte 5 - Geração de Código.png">
+
 <div align="center">
 
 **JavaScript**
@@ -155,6 +157,8 @@ document.getElementById('start-button').addEventListener('click', () => {
     });
 });
 ```
+
+<img src="Output/Geração de Código/2° Resposta - Testando o Jogo - Parte 6 - Geração de Código.png">
 
 <div align="center">
 
