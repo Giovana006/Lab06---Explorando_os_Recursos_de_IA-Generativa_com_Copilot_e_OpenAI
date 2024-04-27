@@ -242,6 +242,5 @@ O futuro é promissor e o Microsoft Copilot é um passo significativo nessa jorn
 
 ### **Limpando o Ambiente :**
 
-[!Warning]
->
+> [!Warning]
 > Após a conclusão do projeto, se não for reaproveitar os recursos utilizados, é aconselhável excluí-los, bem como os grupos de recursos, para que não haja cobranças indevidas na sua Azure Subscription
